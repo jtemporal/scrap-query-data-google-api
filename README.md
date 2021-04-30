@@ -36,3 +36,11 @@ source .env/bin/activate
 pip install -U pip
 pip install -r requirements.txt
 ```
+
+## Running
+
+Run:
+
+```
+python app.py 'https://example.com/sitemap.xml' '2021-04-01' '2021-04-28'
+```
