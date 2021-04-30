@@ -17,3 +17,11 @@ After activating it you'll need to configure the OAuth for that project.
 To do this follow along with video bellow:
 
 TK video 02
+
+### Step 3: Create Your credentials
+
+Then you have to create a client ID and client secret. To keep track of those info you'll need create a secrets file named `client_secrets.json` with the contents in [the file available here](https://github.com/googleapis/google-api-python-client/blob/master/samples/searchconsole/client_secrets.json).
+
+Here's how you can get the ID and secret:
+
+TK video 03
