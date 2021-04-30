@@ -25,3 +25,14 @@ Then you have to create a client ID and client secret. To keep track of those in
 Here's how you can get the ID and secret:
 
 TK video 03
+
+## Creating The Python Env
+
+Use Python 3.8.2
+
+```
+python3 -m venv .env
+source .env/bin/activate
+pip install -U pip
+pip install -r requirements.txt
+```
